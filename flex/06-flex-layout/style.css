@@ -34,6 +34,10 @@ body {
   justify-content: space-between;
 }
 
+a {
+  color: #666;
+}
+
 /* Navigation and Footer */
 
 .header, .header ul, .footer, .footer ul {
